@@ -2,7 +2,7 @@
 A 2D platformer game made with Unity.
 
 ## How to play
-- Use the W A S D keys to move left and right.
+- Use the W A S D keys to move.
 - Use the space bar to jump.
 - Rech the flag to win the game.
 - Endless mode: Survive as long as you can.
