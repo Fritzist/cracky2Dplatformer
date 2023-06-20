@@ -8,7 +8,8 @@ A 2D platformer game made with Unity.
 - Endless mode: Survive as long as you can.
 
 ## How to isntall
-- Download the latest release from the releases tab.
+- Go to the game repository [here](https://github.com/Fritzist/2DPlatformerGameDownload)
+- Check your default Downloads folder
 - Extract the zip file.
 - run the file `2dJump&Run.exe`
 
